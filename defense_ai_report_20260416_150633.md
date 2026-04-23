@@ -1,0 +1,470 @@
+﻿# 국방 군수 AI 활용 방안 연구 - 일일 리포트
+
+> **생성일시:** 2026년 04월 16일 15:04:57
+
+---
+
+## 1. 글로벌 뉴스 (Global News)
+
+### 검색어: `AI military logistics`
+
+**1. News - DLA Troop Support begins journey to predictive data with AI integration - DVIDS**
+- 출처: DVIDS
+- 게재일: Tue, 14 Apr 2026 20:36:00 GMT
+- 요약 (원문): News - DLA Troop Support begins journey to predictive data with AI integration DVIDS
+- 요약 (한글): 뉴스 - DLA Troop Support는 AI 통합 DVIDS를 통해 예측 데이터로의 여정을 시작합니다.
+- 링크: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWttckJWU1B4NFJaeTRsMW4wb2RkQUFnV05VT3JUQWZDMHp3dGtEQ21Za1RYM0ZEdmFBcS1ydWVDNFdHbWMtTFNxbWpIdHcwTnhUdndZZGFlaFNJSFBfRDkyT19RSmxiRDZvZ1hlLWpQYUFyb0lsTHlIazFOWW5jTEVXZklfWFZ4TlpVcHNfcWhXMElWM1U0ZlVOTjYxb1UtMkR4aEJpenQ?oc=5
+
+**2. Lithuania to Deploy AI-Powered Logistics Robot - The Defense Post**
+- 출처: The Defense Post
+- 게재일: Fri, 10 Apr 2026 09:17:27 GMT
+- 요약 (원문): Lithuania to Deploy AI-Powered Logistics Robot The Defense Post
+- 요약 (한글): 리투아니아, AI 기반 물류 로봇 배치 - 뉴스와이어
+- 링크: https://news.google.com/rss/articles/CBMid0FVX3lxTE01eUlpQ0d5eUhaYzhFSlRZNERBZFlmQm94Vkd3ZEJuT0l1Y0R2UUp3VC1jS0pEUWVXMDhEZWlUa1hkUGdNVlNuRUJhaVRZVWxfeGhYcXJVMk42RHY5NWF3ZDV0T2J2TUl6V0xmdFgyY3hTYkdKQnNz0gF8QVVfeXFMT0Q5Z0tHM1ZqZjY1bW5RYUdWWnhGdGRqOXdfQ0lYYVFVZzVEZ1dWaVdxYXp1ZVpkYThmaFVJSXpxRkwtYlJKckI2T1lFakVUNXM4RXRmR1prTzBFRDllaGtRX19RSHJkcEFKMnBqbVVncmEzTFhGOTVEWkJTUA?oc=5
+
+**3. AI-Driven Sustainment in Contested Logistics — Preparing for LSCO in the Indo-Pacific - army.mil**
+- 출처: army.mil
+- 게재일: Thu, 29 Jan 2026 08:00:00 GMT
+- 요약 (원문): AI-Driven Sustainment in Contested Logistics — Preparing for LSCO in the Indo-Pacific army.mil
+- 요약 (한글): 경쟁이 치열한 물류 분야에서 AI 기반 유지 — 인도 태평양 군대에서 LSCO 준비.mil
+- 링크: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzJOcTFDMVhIdXNVQU1XWlR2RHhTSDRyOG9QZXhvY2t5dkFHVDk1eFV3UkdSTFYxYmJYbEUyNmJQWF9icjBua2ttc280WFJYSi12NnQ0eV95eVlieXhmVDFLMWh3aGN4bEFNdzhhUWROaFUxYTVBcTNBcEU4YXpfNmlOREtUY2RTelpIR2xEWE1sZ0xxZW14X1VXcVhhZTlvN2RZNkVzUVBkUkNJSGtGRk1VdExrR2RkazlF0gHAAUFVX3lxTE4tOV9VVXc1MVM4ZHduR2thbjVabXJuU0pDblkzYy1TQVVZZ2tMY2tEWFV2R004Tzd6ZVVZM3Z3YXlPQTRrTEVOTGZoOEE1eVhTRVJVREFGRExLNGc5bVAtRXAxRUp4YVlBQXFXLTdwTzVnZmFzV29zWThXNHBjUXh5RlNlcy1lYVFKZ2lpN1huYjBkOXVxckZLbTZVTTZIaW1tVkRuRUFBQzY3Y1lld3BoN09zdC12MzJQbnV5aHpvUw?oc=5
+
+**4. DLA leadership emphasizes AI, partnerships as critical to warfighter readiness - dla.mil**
+- 출처: dla.mil
+- 게재일: Mon, 23 Feb 2026 11:14:50 GMT
+- 요약 (원문): DLA leadership emphasizes AI, partnerships as critical to warfighter readiness dla.mil
+- 요약 (한글): DLA 리더십은 전투원 준비 태세에 중요한 AI와 파트너십을 강조합니다. dla.mil
+- 링크: https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRlRUZkU4cnM2ZnVrcjExTk5jRkJFN3V3dXE4clpZc0ZkNTlIZ1M1SXU5U1NLdFVaeTFCMFg5U0RlclYxZHN5Vi1SQk9jS0JqZUh0VnVtTFZLcllGVnY4cGpDZUJ5Yk1OZy1hNHB2bDZjYTdHbHoxOWhkV2lpcmJZNzZxWEtKaDhlRlo2c2MtRFZhNXBOVnYtOEdTVE1xX0YzTHZNOTdTSUZKTXJPODJMcEVkVnFKX19ROE14NXAtTlZpRUdPRnVFc2pGdm1Xc202OFRHTlM2WlhDczRZX1lTMA?oc=5
+
+### 검색어: `artificial intelligence defense supply chain`
+
+**1. Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label - The New York Times**
+- 출처: The New York Times
+- 게재일: Thu, 09 Apr 2026 00:19:59 GMT
+- 요약 (원문): Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label The New York Times
+- 요약 (한글): 연방 법원은 '공급망 위험' 라벨을 해제하려는 Anthropic의 동의를 거부했습니다. New York Times
+- 링크: https://news.google.com/rss/articles/CBMikgFBVV95cUxOQVBXLUhmT0RRTkdyckpMalU4RWtpZVNvQjdIMU1aWGthbGdLaTRaSVctRFhSNGc0UDcxemNoQkxNdDBFS29zbEQ3RndNdDZaSmRXdWgyQVNzT2FKcEY4U2ItRXlRM0pxQmJ0N2NsLWJZbl91TnEtUGljdWZCYjMxQlFXMnNKWHYwSDF4bHBEbERRdw?oc=5
+
+**2. Why a secure industrial supply chain depends on layered AI - Supply Chain Management Review**
+- 출처: Supply Chain Management Review
+- 게재일: Tue, 24 Mar 2026 07:00:00 GMT
+- 요약 (원문): Why a secure industrial supply chain depends on layered AI Supply Chain Management Review
+- 요약 (한글): 안전한 산업 공급망이 계층화된 AI 공급망 관리 검토에 의존하는 이유
+- 링크: https://news.google.com/rss/articles/CBMikAFBVV95cUxQMURsWGlpOGpWZTB5R1dSQkI5dHZraThOdFRwZ1YySHVUNElVaUdkbHlVY0c1ejJQM2NPM1V4WnF6dmJScThabVBsbEpDX1NGcnAzdWFkc0pCUms2REl0cGZ4M0tFYmdpaWM0dnFXcUVfa01QdEk0RWUzYXZXUlVaZGNqZFdEZFlack1BMklLc0c?oc=5
+
+**3. Anthropic loses appeals court bid to temporarily block Pentagon blacklisting - CNBC**
+- 출처: CNBC
+- 게재일: Wed, 08 Apr 2026 22:08:04 GMT
+- 요약 (원문): Anthropic loses appeals court bid to temporarily block Pentagon blacklisting CNBC
+- 요약 (한글): Anthropic은 국방부가 CNBC를 블랙리스트에 올리는 것을 일시적으로 차단하기 위한 항소 법원 입찰에서 패했습니다.
+- 링크: https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHdKNjd4R3hoM3l1Nlp5OVpUZ3FRdVpBQjVLdTBqRXFGdG94bGtlWWswamt0X3p1Y1hlXzFSRGhkYkFYMHhkcUlQSXIydzBEVHl4VUxubUxXU3VSaGU0dHdtcUFxZjZOcjVPWHhPdTJkSG9qZFlkTWN3LUg3TlZsOFdlUnQ2WmRNRENXSUxXSdIBlAFBVV95cUxNNTdNRk54MmJabFN2MzZXRlF3Z1hSbWRjTEpJd01ETGxEVVRTc0lsYU81MFdpdl9idTBMeTJ6X2dlU1VGOXNsaC1xWFRjblBISFYxN1ZDLXlpZnh5ZkhRZmRCcGFOU2Y3MTQtOWZ3SS0wX2RybWp1cmhHc0VGT2Q2TlIyTkFPY3lYVmZQM3FXLVI4czF6?oc=5
+
+**4. Federal Judge Temporarily Blocks the Pentagon from Branding AI Firm Anthropic a Supply Chain Risk - Military.com**
+- 출처: Military.com
+- 게재일: Fri, 27 Mar 2026 07:00:00 GMT
+- 요약 (원문): Federal Judge Temporarily Blocks the Pentagon from Branding AI Firm Anthropic a Supply Chain Risk Military.com
+- 요약 (한글): 연방 판사는 국방부가 AI 회사인 Anthropic을 공급망 위험으로 브랜딩하는 것을 일시적으로 차단했습니다. Military.com
+- 링크: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVkVPbGVOMThiYUJVVHpCN3g5V1ZETVo5VWtSTGZMV3gwd2ZZV0h3N3lnTnVwbzdwNkhrNGxsZFp3Y2NwTmtXc1g5TmZnczJzdjBwSGpvaUxjbXZZaHh2dVhZWXpiTXRZQWk0bkdjdzE3c3JDVVRYV1ZiNDctcGpxbng1U3VPb2lUZXh1NFh3YkZ2VEE4UklGV2tha3VGRDZPb1owSEprd2RFdm8tWmhMNDh1ZW1wX3JHXzZ1bEp0VzJvQVB3OEZVY3RCRnhYNkFlSjdzWg?oc=5
+
+### 검색어: `military AI predictive maintenance`
+
+**1. AI Poses New Challenges, Opportunities for Army Vehicle Maintenance - National Defense Magazine**
+- 출처: National Defense Magazine
+- 게재일: Tue, 17 Feb 2026 08:00:00 GMT
+- 요약 (원문): AI Poses New Challenges, Opportunities for Army Vehicle Maintenance National Defense Magazine
+- 요약 (한글): AI가 육군 차량 유지보수에 새로운 도전과 기회를 제시하다 National Defense Magazine
+- 링크: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWXpsWkFzNnBpMmpvc2RZLWRQSjNqRXBCWE5KMno1VEgtd0lUVmFueWtXVjQtcWs0X0t2alc2VFhNVFRLbjZiR1FCSktWSFFUYTZGLWZiekVKZHMtZzNPVG95aFcwZFBacHpJeWJ4VWppM003V0hkbjBmWVFJTUlWNi1abmFKVlBScmdVdERIM19RVG9mOUdsRXBmSEJCR19scWVoZHlGUVQ4RXZHandyWHpUU3pGM3BwRlNLUDNKMDd5VFk?oc=5
+
+**2. Odysight.ai Lands Defense Pilot Orders as AI Maintenance Gains Momentum - The Defense Post**
+- 출처: The Defense Post
+- 게재일: Fri, 30 Jan 2026 08:00:00 GMT
+- 요약 (원문): Odysight.ai Lands Defense Pilot Orders as AI Maintenance Gains Momentum The Defense Post
+- 요약 (한글): Odysight.ai, AI 유지 보수에 탄력을 받아 국방 조종사 명령 획득 The Defense Post
+- 링크: https://news.google.com/rss/articles/CBMidkFVX3lxTE51SHh5NjVmUG1pOGJ5NHZFTjZWTFJUZXNidG52eWZHSk5DcG10UV9yaC03cEZHaThYT0ZYWi1IbzNwczcxVmhtdFcxOUtKeHJ0TVlJMUxyMGZzZ00zVEdCTml6ZURtYUdwcFlvN1BHQ1BkLVdZUnfSAXtBVV95cUxNcFN6ckduaDBXWFRsX1NoNG05MVpkRTgtWVo4VEdETTlKYTdTZjljTjhOSzBldHc5d3ppemVqUHh1TE04V0xuQW5LQjFlbU1tNi1DSDdPT1RXWEVxV2JtMHRaNVBfa2tGQnRkMlA3aW9nWXBPcjJnWWdGbGM?oc=5
+
+**3. Role of AI in Modern US Military Logistics - vocal.media**
+- 출처: vocal.media
+- 게재일: Fri, 03 Apr 2026 08:43:38 GMT
+- 요약 (원문): Role of AI in Modern US Military Logistics vocal.media
+- 요약 (한글): 현대 미군 군수에서 AI의 역할 vocal.media
+- 링크: https://news.google.com/rss/articles/CBMidEFVX3lxTE5EdXRYLUNrVGthQjFKUVBpUFpKSFhhaG5CeG5oWU9pUDdZdkRJenhkRWFra1hJS2Nkc3Q3c2RiZUhSSzlrdmdMVDFISzI1QkcwYW8temJ0Nkg1cTZuYnRHVHlEN0F4U2tWOF85V0ptWDBmc3hP?oc=5
+
+**4. How AI Is Helping the Military Predict Failures - Military.com**
+- 출처: Military.com
+- 게재일: Fri, 21 Nov 2025 08:00:00 GMT
+- 요약 (원문): How AI Is Helping the Military Predict Failures Military.com
+- 요약 (한글): AI가 군대의 실패 예측을 돕는 방법 Military.com
+- 링크: https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjQ1N0J0VmNrbzJBTld6SmZUZWtXNjVxVlJIcHNZT1dodXNnT0pMOEswcEdreC1lY25nYTg0bFdlNmNKaUJweS1tRlJRdWlaUUR0Z1ZKZVp1Zk1zQjJ0NDFPY2FLNjVBOERVclJOMEJjYnlwZEdhX3d6RUVTTV9RQUhnMTNBQy1rZ1VGNUdnZktYa1E?oc=5
+
+### 검색어: `defense logistics automation machine learning`
+
+**1. DLA turns to AI, ML to improve military supply forecasting - Federal News Network**
+- 출처: Federal News Network
+- 게재일: Wed, 21 Jan 2026 08:00:00 GMT
+- 요약 (원문): DLA turns to AI, ML to improve military supply forecasting Federal News Network
+- 요약 (한글): DLA가 AI, ML로 전환하여 군수품 예측 개선 Federal News Network
+- 링크: https://news.google.com/rss/articles/CBMirwFBVV95cUxONTlMVVVXVmVwWXpjcHFhM0J2TjByMzdyLWtsNUpTVXhOWFQ0OGR3QnQ2Y1BEUzdySm41cTJZRVRqMmtNNlN1U3FsRXNCa1l1a1cxWkhKQ1NNRUJ4WnNjR3F1RURBMlAtRjBDbVZsMEpzUEVVdEJ5dV9wSjFpOU5mXzZzRlRGLXZIcDRrbXZ1RU5kampkOUdZMUNjcmVNcFExdlRSZGFiNzFhRVFKRXhv?oc=5
+
+**2. Utilization of Artificial Intelligence (AI) to Illuminate Supply Chain Risk - dla.mil**
+- 출처: dla.mil
+- 게재일: Thu, 01 May 2025 07:00:00 GMT
+- 요약 (원문): Utilization of Artificial Intelligence (AI) to Illuminate Supply Chain Risk dla.mil
+- 요약 (한글): 공급망 위험을 조명하기 위한 인공 지능(AI) 활용 dla.mil
+- 링크: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNmExTFdscWMxQXBkTFFsVVZHNVFDMVVZZHRqMktQXzlpVmVOdWNYQ1B3NFI0U3AxQW9Bb0FwTGtpbGhsVHU4UlV4dzA0UzhWcWJlTnNsRU5RaXZQMmVqOHpBaGNtaW41Vl9vWmsxNURHUGZORXlVeW41WE1sbmQtbUUxSW15SnlhbUhXNlRyVTdrR1loNWpKdmlYMUVJXzN0VERaVHhYNTV0Vy1heVgyMVA2bkdHNVA5WDlZWFlkeVM5R19jN0ZfM3NSbVFqVUxobVJ1Mjd1VVpJbU0?oc=5
+
+**3. Quadruped Robot Market Rapid Growth at 18.7% - Market.us Scoop**
+- 출처: Market.us Scoop
+- 게재일: Thu, 07 Aug 2025 07:00:00 GMT
+- 요약 (원문): Quadruped Robot Market Rapid Growth at 18.7% Market.us Scoop
+- 요약 (한글): 4족 보행 로봇 시장 18.7%로 급속한 성장 Market.us Scoop
+- 링크: https://news.google.com/rss/articles/CBMiYkFVX3lxTE96Skk2TGZIRzFiaE9EM1J2WGdGSWNoYkRzTlhLVDNsbDYtNTROeVFCWU5sMDNBV2ROR01iU3JmVXVlbGlSSjBkTUU2VFFpLVh5Y1RwUmh4YUNrUmQyVW5QNzdR?oc=5
+
+**4. Billions in Flight: AI and Autonomous Drone Technologies Set to Disrupt Global Markets - FinancialContent**
+- 출처: FinancialContent
+- 게재일: Wed, 25 Mar 2026 12:30:00 GMT
+- 요약 (원문): Billions in Flight: AI and Autonomous Drone Technologies Set to Disrupt Global Markets FinancialContent
+- 요약 (한글): 수십억 달러의 비행: 글로벌 시장을 뒤흔들 AI와 자율 드론 기술 - FinancialContent
+- 링크: https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSHIxS0p4MjV4cmxqbm1ibFRfbk9QZ0MyejVydFZZNXFJT1ZCUnlTWXIzd0dKdUpHS1JpRlBwSDRFSDR4OGRQUkhBNmZoY2VYaExvZ1pGWWJRdm9odVRsZXRnTDdGU1BGRXBQMzA3Vzdyb19LQjFhVUZZd0ZZRlZDWUp0V1RXTGRsdUV3MTZZV2FoTjFCUnVOR2xMeWU4a1ZZR0hsTWJ2RFFZQzNmMDJpT1JBbEVnTjU1VndWRFdLMGNCaXVTVFNTRzEyRTgzNUI4NGpnQ3VLS3pSb1JYTWdGVVV2S2I5UGpDTnZxNnpOdFdLWm9iVHR4SW1B?oc=5
+
+### 검색어: `military inventory management AI`
+
+**1. News - DLA showcases tech to modernize military logistics - DVIDS**
+- 출처: DVIDS
+- 게재일: Mon, 26 Jan 2026 08:00:00 GMT
+- 요약 (원문): News - DLA showcases tech to modernize military logistics DVIDS
+- 요약 (한글): 뉴스 - DLA, 군사 물류 DVIDS 현대화 기술 선보여
+- 링크: https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1hQWWY1QUN5a0NkeWZRWXVCVlFEemw3WkRydnI5QXZ0MGpLQ0VNSkZWQTNfQzFaR0xFcEZRb2o1blVCYmhqM2kyTXdFR21wMW5DekJEVU5tMV9MX3ZVVGdRUFdUMFBIdHk0LU5qVlpmYXZhbHhlYjZJXzRIeGpIeWx3RHNSeG4ya0lfZA?oc=5
+
+**2. Inside China’s nascent, AI-powered military logistics system - Defense One**
+- 출처: Defense One
+- 게재일: Sun, 28 Dec 2025 08:00:00 GMT
+- 요약 (원문): Inside China’s nascent, AI-powered military logistics system Defense One
+- 요약 (한글): 중국의 초기 AI 기반 군사 물류 시스템 내부 Defense One
+- 링크: https://news.google.com/rss/articles/CBMirgFBVV95cUxOMGtBaE9JUE5IZ2pyWUdPc0NaN1hpX3hVZFhWci1FV1I5QkxRYW5XS3RJOGdwMzJsbE8xUklDZ2R1eUdTNE5SOWNlVHkwX3FPaHhUMEU4SnhXeWh0YUxVUmU4LTB3cFlUZmEweHNfc0xrb3FSOVV1V3R4cHlWLVRRSzE4T0dHMzVOMjJVNngtcE1rYXNOTXYzOFVGX1RIVnpkbzM5aEJRclFSUDVEWkE?oc=5
+
+**3. US Army Hopes AI Can Slash Troops' Paperwork Burden - Business Insider**
+- 출처: Business Insider
+- 게재일: Sun, 08 Feb 2026 08:00:00 GMT
+- 요약 (원문): US Army Hopes AI Can Slash Troops' Paperwork Burden Business Insider
+- 요약 (한글): 미 육군은 AI가 군대의 서류 작업 부담을 줄일 수 있기를 바라고 있습니다.
+- 링크: https://news.google.com/rss/articles/CBMiigFBVV95cUxOOXBsQmV4R19welBMSkxlNVdmYTZUZzVMcHRvTlAwMVpsQXhZc2F5RDZnZU5zTktnaWJHeWFtRFA4NVptYTFPdUVQWFZncWh5UW5ibFhlWlVBbXZ4M1FRX2pwY0NTT0t1eW5sMDdObzZ2emc1ZS1oR1JMbUFDU1hvWWpPMXFDOTU3UHc?oc=5
+
+### 검색어: `NATO AI logistics operations`
+
+**1. How NATO can integrate AI to prevail in future algorithmic warfare - Atlantic Council**
+- 출처: Atlantic Council
+- 게재일: Mon, 30 Mar 2026 07:00:00 GMT
+- 요약 (원문): How NATO can integrate AI to prevail in future algorithmic warfare Atlantic Council
+- 요약 (한글): NATO가 미래 알고리즘 전쟁에서 승리하기 위해 AI를 통합하는 방법 Atlantic Council
+- 링크: https://news.google.com/rss/articles/CBMizAFBVV95cUxQc2tVbUliMHpiSThzY1VBbkFiYlV5cTF0eVkzWVlMM1h3V1hwVzFDN1pwLVhybXFra3FSUUh4cS1FZkktd3FVMkVxSThaQ2F6WXlrRlZ4aDFDS2ZuUC1HbmpSVWlSYjYyOVQ5Q05hQWswcUhqRHNjQ0F1emhvdlRoc2llYXJNaS1iT2FfZUkxTGkzZ2s0Uy04RWQ3UjRSeXZxX0lFNjJRb1gzclNCOGkxUE10NVRkWDZtVjhuckw1bUxhMnZlVmZ0OUVBbnc?oc=5
+
+**2. Logistik-Desaster der NATO? Schiene unter Druck: Militärische Mobilität als strategische Systemfrage - Xpert.Digital - Konrad Wolfenstein**
+- 출처: Xpert.Digital - Konrad Wolfenstein
+- 게재일: Tue, 07 Apr 2026 10:36:30 GMT
+- 요약 (원문): Logistik-Desaster der NATO? Schiene unter Druck: Militärische Mobilität als strategische Systemfrage Xpert.Digital - Konrad Wolfenstein
+- 요약 (한글): NATO 물류 재난? 압박을 받고 있는 철도: 전략적 시스템으로서의 군사 이동성 질문 Xpert.Digital - Konrad Wolfenstein
+- 링크: https://news.google.com/rss/articles/CBMifkFVX3lxTE9QR3B2R3lGdGd0ejA0cjlvcGZNYng3cXJPU0poZ2gzME1vMUJlMGhhNFdVV0Nac3ZxZzRBZ0RiRjVNNmdxRmVrdVZEYklYeHJ5TWxnbXdUd2tVOEFyc1l1SDRVeGh5dGJaUmlZOUlzLXhQV1VpLU5OazhScDFrd9IBhgFBVV95cUxNWVQ5Q0NlSl9QZW9sS1VWb3l1cENxUUttUFhEVDdNd2xuWkNVOGtmRDFCN05QbFhzLU5OcUdzZmZHZnRIYlN6VWNqSWQ5VlZUT1p5TDlGQmFXUFZNbWNYMWFSd1VaZ0x5OU9BMjBMYXhJNU5JYTZaMDd3YklKanU1ZkJ6bFdXUQ?oc=5
+
+**3. A US Kosovo Pull-Out? The Wrong Move at a Bad Time - Center for European Policy Analysis (CEPA)**
+- 출처: Center for European Policy Analysis (CEPA)
+- 게재일: Wed, 18 Mar 2026 07:00:00 GMT
+- 요약 (원문): A US Kosovo Pull-Out? The Wrong Move at a Bad Time Center for European Policy Analysis (CEPA)
+- 요약 (한글): 미국 코소보 철수? 불리한 시기에 잘못된 조치 유럽 정책 분석 센터(CEPA)
+- 링크: https://news.google.com/rss/articles/CBMigAFBVV95cUxOR0FwZl96cFQycXh5MnNJcTl3VnR1U0RjRmZFQ193U0p6M21ubFlXa0MwRXJEUUU4ZTI4QU1ENEZSelIyUlpRRjJJRzZLR0NnU2VSN1lBbDljWWNXNF9TVkxkMGVCM01WeTJ6X0Z0cXVVNkFxXzBuckVkZ0I4WDBtVg?oc=5
+
+### 검색어: `US Army artificial intelligence logistics`
+
+**1. The Algorithmic Battlefield: Forging The U.S. Army’s Future Dominance With A New Breed Of Acquisition Leader - army.mil**
+- 출처: army.mil
+- 게재일: Fri, 03 Apr 2026 07:00:00 GMT
+- 요약 (원문): The Algorithmic Battlefield: Forging The U.S. Army’s Future Dominance With A New Breed Of Acquisition Leader army.mil
+- 요약 (한글): 알고리즘 전장: 새로운 유형의 획득 리더로 미 육군의 미래 지배력 강화 Army.mil
+- 링크: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUVE0SEhZM0NDNDBMdDA3czJILW5EYzR3dmFMZzZVUnFOaDEtT1NFbWFVbWFEUTdxQldBM0ZEOGZzamp4YUlISEVxVEk1RjNUTEVsUlNDSlNZQmJJUFY5WHdfYmdoMWtPaUQ4NEJYVHZtUTdEQm1vd1R6aGticTBTcktiSkx2ZTZIVGU5YTVlMkxMYjJZQU9FZWY3Znk1OXVPd1ExTnBLckVsRWQ2WTNWNFdEWHFiQTRJLXktb1h3aDBLU1R3djZXN2R5ZlZNbmRuc2xyLXdhNHLSAd4BQVVfeXFMTmpFMU9zZzFmMjRUQldibjdEeUtWZHZncm53eGhjMlBNZnZDSmxnXzBCSVZHdU1HMDVXRkNnbTZ3SmlwazMtOWhXR3lQYnZKV0tURGxrZFBXUkVrVTJJUHdJdUV4cmJibmwxWXl2QnpmN1BOYmhESVcxVVVHeHp3VjhLaUN3NEdfaU5IdkNIeDhlbXBxOWN5S0swRGVYUzRFZlpVUURCWXdJQnBPb2M3Rk9hY3c0eV83LWFFSkVmX1JrOWxnSlZwc0ZXX1RUdFNCbGxBekR4QWx2RWZWTXdR?oc=5
+
+**2. US Army Advances AI Tools for High-Risk Logistics Planning - The Defense Post**
+- 출처: The Defense Post
+- 게재일: Thu, 18 Dec 2025 08:00:00 GMT
+- 요약 (원문): US Army Advances AI Tools for High-Risk Logistics Planning The Defense Post
+- 요약 (한글): 미 육군, 고위험 군수 계획을 위한 AI 도구 개선 The Defense Post
+- 링크: https://news.google.com/rss/articles/CBMid0FVX3lxTE5WVG9jbXdEa2VoQXhDMWlvSGloMHAxNlAyQWVZZXJGTnktdlpERjExWjdreG5mNkVCd1NxVFV5cEZseDJOcGVMdUZMUGVid19YbENWTzladWVfR05hWkNLQm9zTE5wdVRzOGl0aEQ4dkE1TTNnejY40gF8QVVfeXFMTjhucktGVDFjYTllZXd3ZU1nbnB4WEJEYkFFMmZicnVkQ0pLcVlVcDE0V0xHTXdBSDRBMEUxRnkwVGJNU0g4WjBYQzhJb1l4RkNFNUo2U3pzRWx3VXlTTzBuRjluUHJPb2JFVl9HRFJaakEtLTU3TUNfamxTYg?oc=5
+
+**3. The Army Built an AI Talent Pipeline—But It’s Filled with Career-Killing Roadblocks - Modern War Institute -**
+- 출처: Modern War Institute -
+- 게재일: Wed, 14 Jan 2026 08:00:00 GMT
+- 요약 (원문): The Army Built an AI Talent Pipeline—But It’s Filled with Career-Killing Roadblocks Modern War Institute -
+- 요약 (한글): 육군은 AI 인재 파이프라인을 구축했지만 경력을 죽이는 장애물로 가득 차 있습니다. Modern War Institute -
+- 링크: https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ZqMWVZUnh6YmFIRDQ5RkZhWGtMbGRrWjA0NWVhSGZ3Q0JJODJ0UG1TV0hFZkkwVE5ZeExHNndXSXp3VWtzTDd5Y0lucHFnVUdnZjVTVm13RlB5M01ZMERHQjdsSngzQkVlSHR5dnRmY3lQUDRvZUdZREN2Sk9mWUtRazJZS1hrazBBbk94WElORUJlOVdxNWVKd1VPWHVjUWEzc0JkSzBEU0ZVZHc?oc=5
+
+### 검색어: `autonomous military supply chain`
+
+**1. Autonomous ship startup Saronic raises $1.75 billion in race to modernize U.S. military - CNBC**
+- 출처: CNBC
+- 게재일: Tue, 31 Mar 2026 07:00:00 GMT
+- 요약 (원문): Autonomous ship startup Saronic raises $1.75 billion in race to modernize U.S. military CNBC
+- 요약 (한글): 자율주행 선박 스타트업 Saronic, 미군 CNBC 현대화를 위해 17억 5천만 달러 투자 유치
+- 링크: https://news.google.com/rss/articles/CBMimAFBVV95cUxPenpQNjFPZk96Zlg3N1VSaDgxX2V4NzR3ekVYMHZfX0gtaU1HRVB5SlJ6eU4tOUVwV0NucV9BOEd1TG5zMV9Uc0lncjFvbDJ3OC1oVnZaS1VTS012ZjlNS3llaVlPUk4wUFE2dzhndFZmaG43SEtGZ2xwUXdfaUZiRE5pbEdEdEdzSHo4YW5VVFJRY2FfLXNta9IBngFBVV95cUxQeUhkNHhkVDZrX0ZfRVRXNzdaZi1EWno1MHpIMXJBTmpMN0haVnRTQjNSVGM0QjB2U2JmZHlQTm9BSHItUjY5YjNobkJ3Sm5CSURrZWpJa1pZWGk2QkYwS28yNGJiakxVcUxGeFJWMkFFU0dMRVRwQ1J1OGVtMm9RaWpQWENYU18wb3YxMWIweUdqbzZNeWt4UDV4VVNsUQ?oc=5
+
+**2. Forward Fabrication: Strengthening Autonomous Vehicle Sustainment Through Mobile Manufacturing, Training, and Resource Recycling - army.mil**
+- 출처: army.mil
+- 게재일: Thu, 29 Jan 2026 08:00:00 GMT
+- 요약 (원문): Forward Fabrication: Strengthening Autonomous Vehicle Sustainment Through Mobile Manufacturing, Training, and Resource Recycling army.mil
+- 요약 (한글): 전방 제조: 모바일 제조, 교육 및 자원 재활용을 통한 자율주행차 지속가능성 강화 Army.mil
+- 링크: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZk5vcmhTUnpuWVhDMzRYX3hHLU1yejdZT2FhU241V3BuZW9QRTNSUXFzTFNwdGpmb1FhQ0dGU1hMOFQzN18tdHBmenhlNElWSmV0bWlBbU5FWEdNbmp5ZTBmLUZCZE5maVpwMXdvaVVmQ0ZCSTlCVVZUY0ZBYTdKVVRuc01zSDk5ek5iMGlnNWU5amMtQ0VwS0NGYlhKWEJPR25mZnhuSFVFWVhfSG1jSHBRR3d5ZVRFVV9YN1d1SGRNU2JtV0Y4WDdYWlNDeUVoOFFFdmtubHZiWmotUnBzYWFkQW9kbGdjamVPTDN6WmFCanPSAfgBQVVfeXFMUHo1X1lSb2F1NUN1X1o3SlFrRG8xWHJkTjdTQWVvcDR5OG1ua0kyVWpSc2pBN2tPX0puUHRIem1yb29BMVYxT18wdHlwNkxxY0JmdjhjSll4cnhfNUtuY1VHQ1gtSlp0OFQwbWZuZWRLR3VYd0Zmc1M1amZmZXgxYzdkRGR1WHU4dlk1b0xNQUdKNUxuUndNbVFmMnJGQUM3MmY4ay1ybGJuYzZ5YmQweGM3ZmJRbGg2cU1TVzFNRmF1dllyNzRIdWwyYlp4MGR6NDM2bmU0aDQ4WmlLS0RMSlJzYWNjQWVFQUZLeUZHR28yU05tTnJ3Q2E?oc=5
+
+**3. Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute - The Hacker News**
+- 출처: The Hacker News
+- 게재일: Sat, 28 Feb 2026 08:00:00 GMT
+- 요약 (원문): Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute The Hacker News
+- 요약 (한글): 국방부, AI 군사 분쟁에 대한 인류 공급망 위험 지정 - 뉴스와이어
+- 링크: https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFhra3lnellBTGVpTnB4UjBfeGdmLVNtMTEtVUI4bkY3WEZjR0RTNmVBVlgtY1ZhNkFpSTdQU2JYYnNyV1dTVEpOMkphTHFjME1TU0E4NnFENDBEd1poYjNjU2pYb3o0eXFNRjRIT3I0WE82TjF5cUtDclJDMHpWNQ?oc=5
+
+### 검색어: `defense digital transformation AI`
+
+**1. Huawei Morocco Pushes Vertical AI for Government, Defense at GITEX Africa 2026 - Morocco World News**
+- 출처: Morocco World News
+- 게재일: Mon, 13 Apr 2026 16:31:23 GMT
+- 요약 (원문): Huawei Morocco Pushes Vertical AI for Government, Defense at GITEX Africa 2026 Morocco World News
+- 요약 (한글): 화웨이 모로코, GITEX 아프리카 2026에서 정부와 국방을 위한 수직형 AI 추진 - 뉴스와이어
+- 링크: https://news.google.com/rss/articles/CBMixAFBVV95cUxONDFJc0NoY3pXWTBrNWxLeFBwRUViMFBUOXVnb1FkMGNqYS1Ib3U5V19nMEJqWWxjVlFLSU9CaTZRd2dmTlRFamVXYUh3MFJ2LVN0Q0JwdGNkLWs4dE5mMkxpRzZsVGRjM3VpcDRKZHJNZkdlX1pwOV9IRVVmTEl5aWhLX1JKbG1qQWpHWUYyTmxtT2dkdzhsWFJoM0l6azJiMmRBR3ZVczF3NUNfU1JFbFZGa2dMYktadWcwV3U5dFRNUHI1?oc=5
+
+**2. DLA hosts 4D symposium to help secure the future of combat logistics - dla.mil**
+- 출처: dla.mil
+- 게재일: Thu, 26 Mar 2026 07:00:00 GMT
+- 요약 (원문): DLA hosts 4D symposium to help secure the future of combat logistics dla.mil
+- 요약 (한글): DLA, 전투 병참의 미래 확보를 돕기 위해 4D 심포지엄 개최 dla.mil
+- 링크: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOXpwcURhZ0F1eHdaZHU1S1RhdDRDb1FhVmlfVERrcWljUjlUa1R0dEU0LVVocFltMVc5SnFyaTdrYU9LT19HeWZWS2Fhb3c2aW9ROW1hd0E2cXNmZFlhaHI1YlQzZnVEYUpqcUs0S1B1SzdYaTNoRXd4NlpqY3g5MzdmcmpZOURUbGNVVmsxZmJ3SEEwZm44QXFESDNPeGFnT19jTW9hQWpRR09BUkFHeHY2SkZfSEVFLVlreWt2c1k5R0RLU21RWFgxM2l3UUZNUFQ0UA?oc=5
+
+**3. DLA’s Adarryl Roberts Discusses AI/ML in Agency’s Digital Transformation - ExecutiveGov**
+- 출처: ExecutiveGov
+- 게재일: Fri, 20 Mar 2026 07:00:00 GMT
+- 요약 (원문): DLA’s Adarryl Roberts Discusses AI/ML in Agency’s Digital Transformation ExecutiveGov
+- 요약 (한글): DLA의 Adarryl Roberts, 기관의 디지털 혁신 ExecutiveGov에서 AI/ML에 대해 논의
+- 링크: https://news.google.com/rss/articles/CBMigwFBVV95cUxOSWRaeEZ2WXI5dnZNMkhWUElWWDJFc3huZjc3WExsQlRPdjR2R3JsSFlYa3hWM0E4ekFaaktwa0RSX2p6aHVuWnB1S2FhUTItUHFycHBhaDVQN0JOMVZYeVNBbmFyTVdzRGZ3dnRBV3RjZWM5VVp5RkdwQ0RhWVllR2JpWQ?oc=5
+
+**4. Missile Defense in the Digital Age: AI, Data, and Domain Awareness in the Arctic - MeriTalk**
+- 출처: MeriTalk
+- 게재일: Tue, 20 Jan 2026 08:00:00 GMT
+- 요약 (원문): Missile Defense in the Digital Age: AI, Data, and Domain Awareness in the Arctic MeriTalk
+- 요약 (한글): 디지털 시대의 미사일 방어: 북극 MeriTalk의 AI, 데이터 및 도메인 인식
+- 링크: https://news.google.com/rss/articles/CBMirAFBVV95cUxQaEFNQ2M4SzZ1ZkFyMDY5QUpRM3pxYjItWVZjcUdKZ2xUQzgxMldHOGFnRU1mLUlZb2dQS0ZmMGZEVTRlbS1sZHgyUGxQY2dQYm4tNDBKcVBFZGtlVkpqVlgtNU1xWEZQWnljSWVGaXZZM3czdXFpY1dYbXlPZ1o3cVE2anAzb25yZzlJOWQtRmdkcUxZdGxIY1UyLVhRTEE1a3ptMDhvYjF0RDRn?oc=5
+
+### 검색어: `military AI procurement optimization`
+
+**1. AI Ethics and War Tech: Should Companies Restrict Their Models From Military Use? - Times Square Chronicles**
+- 출처: Times Square Chronicles
+- 게재일: Mon, 02 Mar 2026 08:00:00 GMT
+- 요약 (원문): AI Ethics and War Tech: Should Companies Restrict Their Models From Military Use? Times Square Chronicles
+- 요약 (한글): AI 윤리 및 전쟁 기술: 기업은 모델의 군사적 사용을 제한해야 합니까? 타임스퀘어 연대기
+- 링크: https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2ZqSFJoVkN5dVlTZnA4dmlNQUN1NEZjNGRoeEl2cEhDbmw5S1JCOEQ5MFJiVzB0djI3cDlTSWk3cF9TdXR2bnU5TE5rNVBUSnRPWm83ZHAtTVBiUkZlQ2tnaDdwRmIwRTJFQXJtZ2xXMlhHdUljYk5kS0pwdTBfcGY2VS1OSHdlZXM3Z3dpeDlfS0FLc29lOGctZ29fVlJMWkJCWg?oc=5
+
+**2. Pentagon Ditches Anthropic, Builds Own AI Arsenal - The Tech Buzz**
+- 출처: The Tech Buzz
+- 게재일: Tue, 17 Mar 2026 07:00:00 GMT
+- 요약 (원문): Pentagon Ditches Anthropic, Builds Own AI Arsenal The Tech Buzz
+- 요약 (한글): 미 국방부, 인류학을 버리고 자체 AI 무기고 구축
+- 링크: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWVZa2xLT1FNbElmVEZnZFNidlNNOE95OHliYVBjbUNZVHEzY1lqYmt2bUJFdHBYUkNaRWlORWl3aC1yWnVLTlJmR3hIOXR1YklSMWRDd0JDdmRhTFZFcm9xZFFGMkRpRlNlMGRKal9nQUdIMkthMTFZeHpVbzZBQWxPTlVWV1Fq?oc=5
+
+**3. AI enhances Defense Logistics Agency’s end-to-end operations, CIO says - Nextgov/FCW**
+- 출처: Nextgov/FCW
+- 게재일: Thu, 20 Nov 2025 08:00:00 GMT
+- 요약 (원문): AI enhances Defense Logistics Agency’s end-to-end operations, CIO says Nextgov/FCW
+- 요약 (한글): AI가 국방 군수국의 엔드투엔드 운영을 향상한다고 CIO가 Nextgov/FCW에 밝혔습니다.
+- 링크: https://news.google.com/rss/articles/CBMiyAFBVV95cUxON0tWRUxNcUxPLUdPOXhfUkN0OVNXUXRzRk43OUNzcWJINmFVYl9pUmcyNF9yZTd5U2RiMlphVkRVelJleW1GTFNUNDU2dnpiMWVLQ1dJa1dVcDYwekxYX016LVBQMmNPcTlQVWdFelllZExPcl9QOVZ2MEJMTnVYaU5vS0l1NHJSbFdRNE9zS0w5NXRPM2NZaFdEd3pMTnFUdnV6OTZxZEpKUWFOLUpsLW5IVDhlVElyNGlpMGc5dVEtdzk5c2R4Ng?oc=5
+
+**4. Army adopts data-driven supply chain approach to optimize future Soldier onboarding and training pipelines - army.mil**
+- 출처: army.mil
+- 게재일: Wed, 19 Nov 2025 08:00:00 GMT
+- 요약 (원문): Army adopts data-driven supply chain approach to optimize future Soldier onboarding and training pipelines army.mil
+- 요약 (한글): 육군, 미래 군인 탑승 및 훈련 파이프라인 최적화를 위해 데이터 기반 공급망 접근 방식 채택 Army.mil
+- 링크: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQlRJOEo3Q010enBxanJpTElPOGNiOUlSbWtBLVowY1Fwb1UyWVNCNzhEbGsyci1pNEZjY21MV2hua3lzdlBOV3p1QTVFcHU0Tms5MGt0VXQ3elZIaDk0QUFsYjdodzQxS1FIWmlsTFN3V0FUZVo2ZzVadUI1WjI0WE1OakxpSFNhUUQtM2xRSGdoclVnMEtia0l2Q3BJQWx0VnBCcDltQ0ZXblNmQVpvMDB1c0NpcFVwVF9fcHhSMVBHaUluOTQ3T0hla21ucDBqWk0xWXA3X05NQdIB3wFBVV95cUxOYVBXRnlscE5pTVpxYnRJQlNZSDN2MzFjb1FQTnlwQllTckJvTXVIa1VndS1wdGloVzRuSlJMYjNkUUg5RlZackwybk0xTDgtVEZnRmpvaTd3UkE0LVMyRjg2a3VlUjlFdlg4ZXJYZEkzVllkSGhTcENZUjNIMkF3NE95MEdxVnlvVlNBMS1sRHMzTHB0WFNvNU5EQm5yaTNMOFhKV0xxQnMtUUhoWWRFbExVbVZoWXNZUmpPeF9Va1UzLVpQeml3bFo2VHJBY19kR2Q3NllwWURCTm12anNR?oc=5
+
+---
+
+## 2. 국내 뉴스 (Korean Domestic News)
+
+### 검색어: `국방 인공지능 군수`
+
+**1. 국방부, '국방 AI' 강화 조직개편 추진…전담 차관보 두기로 - 연합뉴스**
+- 출처: 연합뉴스
+- 게재일: Tue, 18 Nov 2025 08:00:00 GMT
+- 요약: 국방부, '국방 AI' 강화 조직개편 추진…전담 차관보 두기로 연합뉴스
+- 링크: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BbjduTGpOYWZzVG1SUTRDWjZVdkZFTmRybTNnTEJha1dKWGp2WnlESURuWHRTUlBoRmlkYXZ2cWw3M0xPQ1g5UU9ZRFhCMk5FUmMzX3EtWjhWUUHSAWBBVV95cUxNU1YwWXBMQ0ZKTGNXY29BT1JuQWkwMGlwWXh3N3VKSGRtbTFBRjM2REwtaGtGSmpyUEdkZWFmb3o4TjZlSnIwYzFfQURqTFJUdGxGTlpqMF9FY3BDT1dZMWM?oc=5
+
+**2. [2026 국방 AI Transformation 전략 좌담회] - 전자신문**
+- 출처: 전자신문
+- 게재일: Wed, 11 Mar 2026 07:00:00 GMT
+- 요약: [2026 국방 AI Transformation 전략 좌담회] 전자신문
+- 링크: https://news.google.com/rss/articles/CBMiTkFVX3lxTE5oLW9oOUhPR3BFZC1KRUZ5TXhzQ0N0VnNfNmxyWWdtbEVKV1pibUFaajN4cEM0NUxTWEVvLUN0UEtaRHF2MkM3bVJ6eEhjUQ?oc=5
+
+**3. DX KOREA 2026, ‘AI 국방 MRO’로 군수 패러다임 바꾼다 - 아시아투데이**
+- 출처: 아시아투데이
+- 게재일: Thu, 26 Mar 2026 05:22:52 GMT
+- 요약: DX KOREA 2026, ‘AI 국방 MRO’로 군수 패러다임 바꾼다 아시아투데이
+- 링크: https://news.google.com/rss/articles/CBMibkFVX3lxTFB2bDNPSlgtLUJSWGI2SWNPQy16Wjk3aE1KTXNKaE9GQ3lrdUU3eW04Sk5FQ25XVzhlMFluOWxQb0Rxc183RHY4cnBhQzN4NUIwWWlDbTFCZlduR2VJbFE1UFR6aGNJVEVVUEJKTV9B?oc=5
+
+**4. [현장] "국방의 절반은 물류"… AI가 바꾸는 군수의 미래는? - 지디넷코리아**
+- 출처: 지디넷코리아
+- 게재일: Wed, 10 Sep 2025 07:00:00 GMT
+- 요약: [현장] "국방의 절반은 물류"… AI가 바꾸는 군수의 미래는? 지디넷코리아
+- 링크: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FT3hnTzB0c1dWSkJaajM1ci05T1VOVHFDT2xuelhENUlxOWlnTFVOZVRUNE90NTZaaE9IYktaTlNKVWxBZmFZeWtULVVheEx4TkR4X2Vn?oc=5
+
+### 검색어: `군 AI 자동화 물류`
+
+**1. “수도권 안 가도 일자리 있다” 쿠팡 지방 물류센터 청년 직원 1만7000명 돌파 [더게이트 유통] - 더게이트**
+- 출처: 더게이트
+- 게재일: Sun, 12 Apr 2026 00:19:06 GMT
+- 요약: “수도권 안 가도 일자리 있다” 쿠팡 지방 물류센터 청년 직원 1만7000명 돌파 [더게이트 유통] 더게이트
+- 링크: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OT1ozQ0hNSV9yV2JXX080NGs3ZXRqWndRbGE1T0VsU0tUWHFqcHlQMTE3eHV4ZG0zVVhIbG9ZZnR5ZkdfdUdfVmVReW5pS3UwcU5UVVZrcTJBXzNNNnZEUkhXQzNXc3Jf0gFsQVVfeXFMTldhUlJhc1hkTFViT2J5SnRUeHhCV0VZR0xuelhuT2NubGZ2SVpaOTZzWktyOXhkVVBtMWJuNmtMTHFxenRHbEFCdW12QWZlRm1rcnFwMmZFWHpkVE13enFmVEZZcWNfLXVDTlQ0?oc=5
+
+**2. 윌로그-육군종합보급창, ‘군 스마트 물류’ 고도화 손잡았다 - 스타트업엔**
+- 출처: 스타트업엔
+- 게재일: Tue, 29 Jul 2025 07:00:00 GMT
+- 요약: 윌로그-육군종합보급창, ‘군 스마트 물류’ 고도화 손잡았다 스타트업엔
+- 링크: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPUl9WNXgyTkM0Um1FbTc3RTRiM2E1WGI1bkpkSVF4RGN5SkNkRlVObmdkQjkyejlVZVBuLXNjbTVERVJHLVBjZHhnTmNmc1ZfakdVeWhGYS16REFjVThDQXZESXI3RU1a0gFsQVVfeXFMT1VLOEVyOGlnRlBQSHRtSC1DLVdIZFVnNTZkWTdvQ1hhNnRrVFRGTGRzeFBFSFpJcVBuMkd1b0daNW5yNjZuejJzLXUzbkNZbEd4b1gtaS1nWEhSeDhXLXJpaUo5VjBSYTFoQ0RH?oc=5
+
+**3. IoT·AI 군 물류 접목…윌로그, 육군종합보급창과 MOU 체결 - 헬로티**
+- 출처: 헬로티
+- 게재일: Tue, 29 Jul 2025 07:00:00 GMT
+- 요약: IoT·AI 군 물류 접목…윌로그, 육군종합보급창과 MOU 체결 헬로티
+- 링크: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Xd3B5ZUswbDZJTXBQMDEyc2FVLXBGb29rQ2FfS29fNHA3MWJUcnRfWFd0Y1RfdTI1TjdxN1V6YS1scGpKQWtiQUVodktTQTRUUWJ6UHd5MU91dWRpY21z?oc=5
+
+**4. 외식업부터 물류 현장까지, 산업 현장을 바꾸는 로봇 자동화 솔루션 - 오픈애즈**
+- 출처: 오픈애즈
+- 게재일: Tue, 28 Oct 2025 07:00:00 GMT
+- 요약: 외식업부터 물류 현장까지, 산업 현장을 바꾸는 로봇 자동화 솔루션 오픈애즈
+- 링크: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Xa3BISEtXeUtMRHd2a1AtUUV3eUZsTUNTWDNkcVRyQnpuZVpIRXViNUtYN3hYX0loZWFuZlF6bDk4bG9SME9EOVF4WWRjTjFkUTg2Z2l6bXl2WUZrLUpRdVZKdnhmZ1dG?oc=5
+
+### 검색어: `방산 인공지능 기술`
+
+**1. 오병상 시대 대표 "한국의 '방산 혁신기술', 국방에 접목할 생태계 필요" - 네이트**
+- 출처: 네이트
+- 게재일: Thu, 16 Apr 2026 05:47:00 GMT
+- 요약: 오병상 시대 대표 "한국의 '방산 혁신기술', 국방에 접목할 생태계 필요" 네이트
+- 링크: https://news.google.com/rss/articles/CBMibkFVX3lxTFAtWHR1Q2dnemxkT2tCM0p5Ukx6THR5dzZmeVlFaFZUbzdhS1dWLVoyQThDNHpkMHpiY1FQMFhqbHFKVDhSVjJMd0JlRzJRR1M1eWlVX3JsNXZwS3B4TmRtSjU0c05kenRsZm4tR1VR?oc=5
+
+**2. 데이터센터·휴머노이드·방산까지… “공작기계 없으면 첨단산업 멈춘다” - FA저널**
+- 출처: FA저널
+- 게재일: Tue, 14 Apr 2026 04:41:28 GMT
+- 요약: 데이터센터·휴머노이드·방산까지… “공작기계 없으면 첨단산업 멈춘다” FA저널
+- 링크: https://news.google.com/rss/articles/CBMia0FVX3lxTE5Cb3FhYmI3Zk5jME1MOHpBZUI4OF9mVnRyOV9tZHZzVVYyYVNHUUo5SE9aRVdfQTJFRE5YbTAzdUl1WEZKT0NocGxick12OV95R1Z3elRiT281cXB2aUkzaHJZT25zZU1nRFFv?oc=5
+
+**3. 차세대 항공엔진·軍 무인체계… ‘한국형 방산’ 더 똑똑해진다 - 문화일보**
+- 출처: 문화일보
+- 게재일: Tue, 14 Apr 2026 00:13:21 GMT
+- 요약: 차세대 항공엔진·軍 무인체계… ‘한국형 방산’ 더 똑똑해진다 문화일보
+- 링크: https://news.google.com/rss/articles/CBMiUEFVX3lxTE54QXQzSFlpRnU4X2ZDLWw0WVhjYk8zWG9QTm1yUFJiTmN4X2twa3FYT1BMUWVEMFZHZEhMbWhHUHpxTmRKLUxvbms1UjAxbGxM?oc=5
+
+**4. NATO 30개국 대사단, HD현대 GRC 방문…해양 방산·AI 기술 확인 - ER 이코노믹리뷰**
+- 출처: ER 이코노믹리뷰
+- 게재일: Wed, 15 Apr 2026 01:24:26 GMT
+- 요약: NATO 30개국 대사단, HD현대 GRC 방문…해양 방산·AI 기술 확인 ER 이코노믹리뷰
+- 링크: https://news.google.com/rss/articles/CBMibEFVX3lxTFBUdUdTOERxcU1aVWQ5cmVBR0VYejVQWVlNV1BTODNTcnR3bjNxbTEzVXlqX3lCQzhOeG40MENiOU5mNFVyNlZicTcwajRGaGFzcGN4N0pRdHlqUGNNYk5NRGZBalRPeWpuQ2dUWA?oc=5
+
+### 검색어: `국방 디지털 전환`
+
+**1. K정책금융연구소-네비웍스, 국방·디지털트윈 기반 미래 방산 협력 논의 - 뉴스토마토**
+- 출처: 뉴스토마토
+- 게재일: Thu, 09 Apr 2026 09:57:15 GMT
+- 요약: K정책금융연구소-네비웍스, 국방·디지털트윈 기반 미래 방산 협력 논의 뉴스토마토
+- 링크: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WVVF0NzNNZ2ZqS2IxbzhJWV9ZQzUzOHNYQ2ZzRDgtTG52VnU3VzVjUFJsaW9UTWhWMGJkX3JGVjIxa1NDYXJtcHMteWQ3UmJoREhXUFh5UTRiTnBoRUlqTzNB?oc=5
+
+**2. 국방부는 정보 기술 역량 및 디지털 전환에 관한 교육 과정을 개설했습니다. - Vietnam.vn**
+- 출처: Vietnam.vn
+- 게재일: Mon, 06 Apr 2026 07:00:00 GMT
+- 요약: 국방부는 정보 기술 역량 및 디지털 전환에 관한 교육 과정을 개설했습니다. Vietnam.vn
+- 링크: https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHVrZG40cGNYYzRTQjU1QVhzME5TZ29McHp0UXN1TlJGczVoMWNyQVByS1k5cExhbE8tanJONEota2VxNXk4dXYwVTdLSkNWakwxVTlDUzZmN1FReEhpcy1BMXRCMjRHcnN0WjYxcmdkOFRabnlNQi1aV1ZBUGZhdlRGUGRvZTRjZERGSUVnVGJsSDljXzU0dTl6WG9NQmZTQU0zaU1kci1TeF83Yl9F?oc=5
+
+**3. LG CNS, 국방 IT사업 연속 수주로 디지털 전환 역량 입증 - 헬로티**
+- 출처: 헬로티
+- 게재일: Wed, 07 Jan 2026 08:00:00 GMT
+- 요약: LG CNS, 국방 IT사업 연속 수주로 디지털 전환 역량 입증 헬로티
+- 링크: https://news.google.com/rss/articles/CBMiX0FVX3lxTE95THRfUG1KaXpJN3JDOUFGQTFKLW5NdS1xTWtKTWxJT04tbmZJVFA0enRkSWh0c0tSOXFQd25yTXpIZ3RLRnd2eXljRTcwNGc4THJxOG1GTDA4eU5SWks4?oc=5
+
+**4. 한국시스템엔지니어링학회, 국방 시스템 고도화에 팔걷다 - ntoday.co.kr**
+- 출처: ntoday.co.kr
+- 게재일: Mon, 06 Apr 2026 06:52:26 GMT
+- 요약: 한국시스템엔지니어링학회, 국방 시스템 고도화에 팔걷다 ntoday.co.kr
+- 링크: https://news.google.com/rss/articles/CBMia0FVX3lxTFBrVk1WNjk4RFBpNTlDOTlfMHJqaXFJdEkzUXlxeWsyM0R5bFRISjFBM2IwLWRYWVVrYTdyNERZLWg3bnNjcjNOUTJwMEk3ajdldXdlUzJ4Ql9Vc1Y4VUpOZlhNOXU0TjhPbVhR0gFvQVVfeXFMTmE3QmNPbHZ0c1ViajFpMTRnRlptWmxtNFItXzVSR1hyQjVGbGtrN1VDdzRkOXNzTjh4R1hPZnpyY3JMcTdfeldDVGg5aXVfaS1lRmZDT2xRODFNYVVXS0dZZTdQU3NkZzhDaml0azFZ?oc=5
+
+### 검색어: `군수 스마트 물류 AI`
+
+**1. 유희태 군수, 완주미래 100년 설계도 내놨다…AI·수소·햇빛연금으로 ‘대도약’ 선언 - 타파인**
+- 출처: 타파인
+- 게재일: Fri, 10 Apr 2026 00:28:59 GMT
+- 요약: 유희태 군수, 완주미래 100년 설계도 내놨다…AI·수소·햇빛연금으로 ‘대도약’ 선언 타파인
+- 링크: https://news.google.com/rss/articles/CBMiWEFVX3lxTE15dFhVSnVSNk1WZEJhbEtDYmgydmhsMzMydkJHUGlaTDQ0ZzVEQS1JZlpBeXBoaDQyMHR4VDhZQmY2eEUxalNMSjlzSW9vVmJQWEk3SmNmUDM?oc=5
+
+**2. 인하대·산업계·정부, AI 기반 지능형 물류 생태계 모색 - 헬로티**
+- 출처: 헬로티
+- 게재일: Sat, 09 Aug 2025 07:00:00 GMT
+- 요약: 인하대·산업계·정부, AI 기반 지능형 물류 생태계 모색 헬로티
+- 링크: https://news.google.com/rss/articles/CBMiYkFVX3lxTE1valdNd0pIMkJnZndvWW1DZ2pBeElPdXc3M2RVdjBTTnc2bk95ME4wcmpxd1dOZ2VCbjV4UDliQjhaT095UXpiTFNxZ0JNZjhDbllFVk9GS1BpRHgweTBDdU1R?oc=5
+
+---
+
+## 3. 최신 학술 논문 (Academic Papers - ArXiv)
+
+### 검색어: `predictive maintenance military equipment neural network`
+
+**1. Temporary Power Adjusting Withholding Attack**
+- 저자: Mustafa Doger, Sennur Ulukus
+- 게재일: 2026-04-15
+- 초록 (원문): We consider the block withholding attacks on pools, more specifically the state-of-the-art Power Adjusting Withholding (PAW) attack. We propose a generalization called Temporary PAW (T-PAW) where the adversary withholds a fPoW from pool mining at most $T$-time even when no other block is mined. We show that PAW attack corresponds to $T\to\infty$ and is not optimal. In fact, the...
+- 초록 (한글): 우리는 풀에 대한 블록 원천징수 공격, 보다 구체적으로는 최첨단 PAW(Power adjusting Withholding) 공격을 고려합니다. 우리는 다른 블록이 채굴되지 않은 경우에도 공격자가 최대 $T$-time에 풀 채굴에서 fPoW를 보류하는 임시 PAW(T-PAW)라는 일반화를 제안합니다. 우리는 PAW 공격이 $T\to\infty$에 해당하며 최적이 아니라는 것을 보여줍니다. 사실, 그...
+- 링크: https://arxiv.org/abs/2604.14135v1
+
+**2. AI-assisted writing and the reorganization of scientific knowledge**
+- 저자: Erjia Yan, Chaoqun Ni
+- 게재일: 2026-04-15
+- 초록 (원문): Generative AI systems such as ChatGPT are increasingly used in scientific writing, yet their broader implications for the organization of scientific knowledge remain unclear. We examine whether AI-assisted writing intensity, measured as the share of text in a paper that is predicted to exhibit features consistent with LLM-generated text, is associated with scientific disruption...
+- 초록 (한글): ChatGPT와 같은 생성적 AI 시스템은 과학 저술에 점점 더 많이 사용되고 있지만 과학 지식 조직에 대한 광범위한 의미는 여전히 불분명합니다. 우리는 LLM 생성 텍스트와 일치하는 특징을 나타낼 것으로 예상되는 논문의 텍스트 비율로 측정된 AI 지원 쓰기 강도가 과학적 혼란과 관련이 있는지 조사합니다.
+- 링크: https://arxiv.org/abs/2604.14126v1
+
+**3. HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**
+- 저자: Tianshuo Yang, Guanyu Chen, Yutian Chen 외 8명
+- 게재일: 2026-04-15
+- 초록 (원문): While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities inherited from their base Vision-Language Models (VLMs). To resolve this fundamental trade-off, we propose HiVLA, a visual-grounded-centric hierarchical framework that explicitly d...
+- 초록 (한글): 엔드투엔드 VLA(Vision-Language-Action) 모델은 로봇 조작을 위한 유망한 패러다임을 제공하지만 좁은 제어 데이터에서 모델을 미세 조정하면 기본 VLM(Vision-Language Model)에서 상속된 심오한 추론 기능이 손상되는 경우가 많습니다. 이러한 근본적인 균형을 해결하기 위해 우리는 시각적 기반 중심의 계층적 프레임워크인 HiVLA를 제안합니다.
+- 링크: https://arxiv.org/abs/2604.14125v1
+
+**4. Icy Volatile Enhancements in Evolving Protoplanetary Disks**
+- 저자: Elizabeth Yunerman, Ellen Price, Karin Öberg
+- 게재일: 2026-04-15
+- 초록 (원문): Protoplanetary disk ice lines shape a multitude of planet formation processes, setting the environmental composition through evolution. Ice line locations depend on molecular sublimation and deposition properties, but in dynamic disks where temperature and density structures change, so do the expected compositions of planets and planetesimals. In turbulent viscous disks with pa...
+- 초록 (한글): 원시행성 원반 얼음 라인은 다양한 행성 형성 과정을 형성하여 진화를 통해 환경 구성을 설정합니다. 얼음 라인 위치는 분자 승화 및 퇴적 특성에 따라 다르지만 온도와 밀도 구조가 변하는 동적 디스크에서는 행성과 소행성체의 예상 구성도 마찬가지입니다. PA가 있는 난류 점성 디스크에서...
+- 링크: https://arxiv.org/abs/2604.14124v1
+
+### 검색어: `military inventory demand forecasting AI`
+
+**1. ROSE: Retrieval-Oriented Segmentation Enhancement**
+- 저자: Song Tang, Guangquan Jie, Henghui Ding 외 1명
+- 게재일: 2026-04-15
+- 초록 (원문): Existing segmentation models based on multimodal large language models (MLLMs), such as LISA, often struggle with novel or emerging entities due to their inability to incorporate up-to-date knowledge. To address this challenge, we introduce the Novel Emerging Segmentation Task (NEST), which focuses on segmenting (i) novel entities that MLLMs fail to recognize due to their absen...
+- 초록 (한글): LISA와 같은 MLLM(다중 모드 대형 언어 모델)을 기반으로 하는 기존 세분화 모델은 최신 지식을 통합할 수 없기 때문에 새로운 엔터티 또는 신흥 엔터티와 종종 어려움을 겪습니다. 이 과제를 해결하기 위해 우리는 (i) MLLM이 부재로 인해 인식하지 못하는 새로운 엔터티를 분할하는 데 초점을 맞춘 NEST(Novel Emerging Segmentation Task)를 소개합니다.
+- 링크: https://arxiv.org/abs/2604.14147v1
+
+**2. AI-assisted modeling and Bayesian inference of unpolarized quark transverse momentum distributions from Drell-Yan data**
+- 저자: Zhong-Bo Kang, Luke Sellers, Congyue Zhang 외 1명
+- 게재일: 2026-04-15
+- 초록 (원문): We present an extraction of unpolarized quark transverse-momentum-dependent parton distribution functions (TMD PDFs) from Drell-Yan data within a Bayesian inference framework, incorporating artificial intelligence at multiple stages of the analysis. Our analysis is performed at ${\rm N^3LO}$ in perturbative QCD combined with ${\rm N^4LL}$ resummation accuracy. We first employ a...
+- 초록 (한글): 우리는 분석의 여러 단계에서 인공 지능을 통합하여 베이지안 추론 프레임워크 내의 Drell-Yan 데이터에서 비분극 쿼크 횡단 운동량 종속 파톤 분포 함수(TMD PDF)를 추출하는 방법을 제시합니다. 우리의 분석은 ${\rm N^4LL}$ 재개 정확도와 결합된 섭동 QCD의 ${\rm N^3LO}$에서 수행됩니다. 우리는 먼저 직원을 고용합니다...
+- 링크: https://arxiv.org/abs/2604.14133v1
+
+**3. TREX: Automating LLM Fine-tuning via Agent-Driven Tree-based Exploration**
+- 저자: Zerun Ma, Guoqiang Wang, Xinchen Xie 외 7명
+- 게재일: 2026-04-15
+- 초록 (원문): While Large Language Models (LLMs) have empowered AI research agents to perform isolated scientific tasks, automating complex, real-world workflows, such as LLM training, remains a significant challenge. In this paper, we introduce TREX, a multi-agent system that automates the entire LLM training life-cycle. By orchestrating collaboration between two core modules-the Researcher...
+- 초록 (한글): LLM(대형 언어 모델)을 통해 AI 연구 에이전트가 격리된 과학 작업을 수행할 수 있게 되었지만 LLM 교육과 같은 복잡한 실제 워크플로를 자동화하는 것은 여전히 ​​중요한 과제로 남아 있습니다. 본 논문에서는 전체 LLM 교육 수명주기를 자동화하는 다중 에이전트 시스템인 TREX를 소개합니다. 두 핵심 모듈인 연구원 간의 협업을 조율함으로써...
+- 링크: https://arxiv.org/abs/2604.14116v1
+
+---
+
+## 5. 수집 통계
+
+| 항목 | 건수 |
+|:-----|-----:|
+| 글로벌 뉴스 기사 | 36건 |
+| 국내 뉴스 기사 | 18건 |
+| 학술 논문 | 7건 |
+
+*본 리포트는 자동 생성되었습니다. 생성: 2026-04-16 15:04:57*
