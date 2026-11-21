@@ -1,0 +1,39 @@
+{
+    "_comment": "국방 군수 AI 일일 리포트(HTML 전용) 설정 파일",
+
+    "report_directory": "D:\\@Down\\defense_ai_reports",
+
+    "schedule_time": "09:00",
+
+    "max_news_per_keyword": 4,
+    "max_arxiv_per_query": 4,
+
+    "keywords_en": [
+        "AI military logistics",
+        "artificial intelligence defense supply chain",
+        "military AI predictive maintenance",
+        "defense logistics automation machine learning",
+        "military inventory management AI",
+        "NATO AI logistics operations",
+        "US Army artificial intelligence logistics",
+        "autonomous military supply chain",
+        "defense digital transformation AI",
+        "military AI procurement optimization"
+    ],
+
+    "keywords_kr": [
+        "국방 인공지능 군수",
+        "군 AI 자동화 물류",
+        "방산 인공지능 기술",
+        "국방 디지털 전환",
+        "군수 스마트 물류 AI"
+    ],
+
+    "arxiv_queries": [
+        "military logistics artificial intelligence optimization",
+        "defense supply chain machine learning deep learning",
+        "predictive maintenance military equipment neural network",
+        "autonomous military logistics unmanned vehicle",
+        "military inventory demand forecasting AI"
+    ]
+}
